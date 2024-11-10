@@ -1,4 +1,4 @@
-# Hey Guys 👋! Eu sou João Victor Tubino Martins
+# Hey Guys! Eu sou João Victor Tubino Martins 👋
 
 Sou estudante de Engenharia de Software e sejam muito bem vindos ao meu Github! 😁
 
